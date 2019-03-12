@@ -1,0 +1,116 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3B444B;
+    background-color: whitesmoke;
+  }
+  
+  header {
+    background-color: whitesmoke;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    z-index: 0;
+  }
+  
+  #initials {
+    color: #CD5C5C;
+    position: absolute;
+    top: -7px;
+    left: 65px;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 55pt;
+    z-index: 2;
+  }
+  
+  #fullname {
+    padding: 15px;
+    text-transform: uppercase;
+    text-align: right;
+    border: 0px solid #CD5C5C;
+    border-radius: 5px;
+    background-color: #CD5C5C;
+  }
+  
+  #description {
+    text-shadow: 0.1px 0.1px #CD5C5C;
+    text-transform: uppercase;
+    font-size: 12pt;
+    position: relative;
+    text-align: right;
+    top: -20px;
+    left: -10px;
+  }
+  
+  div#circle {
+    width: 165px;
+    height: 165px;
+    position: absolute;
+    top: 25px;
+    left: 23px;
+    border: 5px solid #CD5C5C;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    z-index: 1;
+  }
+  
+  div.column {
+    float: left;
+    width: 50%;
+    padding: 30px;
+  }
+  
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  @media screen and (max-width:600px) {
+    .column {
+      width: 100%;
+    }
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  hr.sectionRule {
+    border: 5px solid #CD5C5C;
+    border-radius: 2px;
+  }
+  
+  .section {
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .employer {
+    font-size: 11pt;
+    text-transform: uppercase;
+  }
+  
+  .details {
+    font-family: rockwell;
+    font-size: 11pt;
+    position: relative;
+    top: -10px;
+  }
+  
+  footer.feet {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  span.contact1 {
+    position: relative;
+    left: -50px;
+  }
+  
+  span.contact2 {
+    text-transform: uppercase;
+    position: relative;
+    left: 100px;
+  }
+  

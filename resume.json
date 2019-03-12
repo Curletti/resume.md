@@ -1,0 +1,54 @@
+{
+    "initials": "AC",
+    "fullname": "Adam Curletti",
+    "description": "Computer science/Web development",
+    "sections": [
+        {
+        "sectionNames": [
+            "Skills",
+            "Hobbies",
+            "Experience",
+            "Education"
+        ],
+        "skills": [
+            "Worked with C++ and C# for 2 years using object-oriented programming.",
+            " Writing whole projects, creating different classes with complex functions.",
+            " Comfortable writing in HTML and CSS."
+        ],
+        "hobbies": [
+            "I love biking, not mountain biking(road cycing is expensive enough).",
+            "I play Old School Runescape in my freetime, helps me relax. I also love snow skiing."
+        ],
+        "experiences": [
+            {
+            "employer": "Resident Support Representative ⚬ Entrata ⚬ Feb 2017 - Present",
+            "duties": [
+                "Assist with resident and client problems with Entrata’s Resident Portal application and website",
+                " troubleshooting simple tasks, like sending a password reset",
+                " and viewing what may be stop a resident from performing certain actions."
+            ]},
+            {
+            "employer": "Assistant Manager ⚬ Monaco Court Apartments ⚬ Aug 2016 - Present",
+            "duties": [
+                "Ensuring that the communities’ grounds are kept clean",
+                " assisting the managers with final inspections",
+                " giving tours, and rent collection each month."
+            ]},
+            {
+            "employer": "Processing Technician ⚬ ARUP Laboratories ⚬ Sept 2015 - Apr 2016",
+            "duties": [
+                "Receiving different types of specimen and preparing them for laboratory testing",
+                " and matching patient information, data entry, and ensuring that specimen would reach their final destinations."
+            ]}
+        ],
+        "universities": [
+            {
+            "school": "Bachelors' in Computer Science ⚬ In progress ⚬ Utah Valley University",
+            "achievements": [
+                "Currently enrolled in a Data Structures class where I have written code in C++ using dynamic arrays and linked lists",
+                " I am also enrolled in a Web Development class where we are learning about HTML, CSS, and JavaScript. (This resume is written in HTML and CSS)"
+            ]}
+            ]
+        }
+    ]
+}
